@@ -1,6 +1,6 @@
-Project: Task Management System using PHP/MySQLi
+# Task Management System using PHP/MySQLi
 
-About The Project
+### About The Project
 The Task Management System is a simple project that can help a certain company manage its project task progress.
 The system has 3 types of system users which are the Admin, Project Manager, and the Regular Employee. 
 1. The Admin user is those users that has an access to all of the data stored in the database of the system especially on 
@@ -10,7 +10,7 @@ The system has 3 types of system users which are the Admin, Project Manager, and
     employee to submit their start and end time range of their work on a certain task and this data will be calculated in the 
     report as project members' work duration.
 
-How the System Works
+### How the System Works
 The Task Management System users can be only created by admin users. The admin user or the Project Managers will create a new 
 project at first along with some important details and references of the users. When creating a project, the admin or project 
 managers must list all the employees that will handle the project's tasks. After the creation of the project, the regular 
@@ -20,7 +20,7 @@ the progress they have done the project managers will read or scan their activit
 if the certain task is done and need to update the task status in the system. For the printable report of the system, only the 
 admin users and project managers has an access to this function or feature of the system.
 
-Features:
+### Features:
 Login Page
 Home Page
 Project (CRUD Features)
@@ -29,5 +29,5 @@ Progress Form
 Report Generation
 User (CRUD Features)
 etc.
-The Task Management System was developed using HTML, PHP/MySQLi, CSS, JavaScript (jQuery/Ajax), and Bootstrap for the design. 
+The Task Management System was developed using HTML, PHP/MySQLi, CSS, JavaScript, and Bootstrap for the design. 
 
